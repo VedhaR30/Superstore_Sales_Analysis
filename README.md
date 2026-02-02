@@ -10,7 +10,7 @@ The analysis focuses on uncovering **sales trends, profitability drivers, custom
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 🎯 Business Objectives
-- Identify high- and low-performing product categories  
+- Identify high- performing and low-performing product categories  
 - Analyze sales and profit trends over time  
 - Understand customer segmentation and buying behavior  
 - Evaluate the impact of discounts and shipping modes on profit  
